@@ -1,0 +1,1 @@
+package com.miw.gildedrose.domain.messaging;
